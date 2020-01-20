@@ -37,9 +37,9 @@ forty_forty.construct()
 
 
 
-print(f"{eight_hundred_eighth.address} was purchased by {eight_hundred_eighth.owner} on {eight_hundred_eighth.date_constructed.date()} and has {eight_hundred_eighth.stories} stories")
+# print(f"{eight_hundred_eighth.address} was purchased by {eight_hundred_eighth.owner} on {eight_hundred_eighth.date_constructed.date()} and has {eight_hundred_eighth.stories} stories")
 
-print(f"{ninety_nine.address} was purchased by {ninety_nine.owner} on {ninety_nine.date_constructed.date()} and has {ninety_nine.stories} stories")
+# print(f"{ninety_nine.address} was purchased by {ninety_nine.owner} on {ninety_nine.date_constructed.date()} and has {ninety_nine.stories} stories")
 
 
 
